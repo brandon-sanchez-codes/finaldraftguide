@@ -1,8 +1,9 @@
 ---
 layout: "page"
-title: A Simple Guide to Final Draft (for Windows)
-permalink: "/finaldraftguide"
+title: A Simple Guide to Final Draft
+#permalink: "/finaldraftguide"
 ---
+<h2 style="text-align: center;">(for Windows)</h2>
 
 <br>
 
@@ -110,14 +111,40 @@ For the most part, you should be able to write your script without ever interact
 
 Many of Final Draft's keyboard shortcuts are identical to those that can be found on other word processors:
 
-| Action    | Shortcut | 
-| -------- | ------- |
-| Copy | Ctrl+C    |
-| Paste    | Ctrl+V   |
-| Bold | Ctrl+B |
-| Italics | Ctrl+I |
-| Save | Ctrl+S   |
-| Find | Ctrl+F   |
+<table border="1" style="margin: 0 auto;">
+  <colgroup>
+    <col style="width: 90px;">
+    <col style="width: 100px;">
+  </colgroup>
+  <tr>
+    <th>Action</th>
+    <th>Shortcut</th>
+  </tr>
+  <tr>
+    <td>Copy</td>
+    <td>Ctrl+C</td>
+  </tr>
+  <tr>
+    <td>Paste</td>
+    <td>Ctrl+V</td>
+  </tr>
+  <tr>
+    <td>Bold</td>
+    <td>Ctrl+B</td>
+  </tr>
+  <tr>
+    <td>Italics</td>
+    <td>Ctrl+I</td>
+  </tr>
+  <tr>
+    <td>Save</td>
+    <td>Ctrl+S</td>
+  </tr>
+  <tr>
+    <td>Find</td>
+    <td>Ctrl+F</td>
+  </tr>
+</table>
 
 The more you use these shortcuts, the more instinctively you'll use them in the future. The **Ctrl** key is your friend.
 <br><br>
@@ -153,14 +180,40 @@ There's a way of switching between these six modes using the GUI, but don't both
 
 **The following chart is the most useful thing to internalize in this whole guide.**
 
-| Formatting Type    | Shortcut | 
-| -------- | ------- |
-| Scene Heading | Ctrl+1   |
-| Action Line | Ctrl+2    |
-| Character Name   | Ctrl+3   |
-| Parenthetical | Ctrl+4 |
-| Dialogue | Ctrl+5 |
-| Transition | Ctrl+6 |
+<table border="1" style="margin: 0 auto;">
+  <colgroup>
+    <col style="width: 200px;">
+    <col style="width: 100px;">
+  </colgroup>
+  <tr>
+    <th>Formatting Type</th>
+    <th>Shortcut</th>
+  </tr>
+  <tr>
+    <td>Scene Heading</td>
+    <td>Ctrl+1</td>
+  </tr>
+  <tr>
+    <td>Action Line</td>
+    <td>Ctrl+2</td>
+  </tr>
+  <tr>
+    <td>Character Name</td>
+    <td>Ctrl+3</td>
+  </tr>
+  <tr>
+    <td>Parenthetical</td>
+    <td>Ctrl+4</td>
+  </tr>
+  <tr>
+    <td>Dialogue</td>
+    <td>Ctrl+5</td>
+  </tr>
+  <tr>
+    <td>Transition</td>
+    <td>Ctrl+6</td>
+  </tr>
+</table>
 
 Hitting the shortcut while on an empty line will move your Insertion Point to the correct indentation on the line, and will caps lock your letters, if appropriate. 
 
@@ -186,6 +239,7 @@ There's really only one other shortcut that I use when writing, though not often
 <br><br>
 
 <h2 id="tips">Tips for improving your experience</h2>
+<br>
 
 <h3 id="wordcount"><u>Word Count</u></h3>
 
