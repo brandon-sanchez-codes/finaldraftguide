@@ -7,7 +7,7 @@ title: A Simple Guide to Final Draft
 
 <br>
 
-<img src="/img/final_draft_logo.png" alt="this is a photo" width="250" style="display: block; margin: 0 auto;"/>
+<img src="./img/final_draft_logo.png" alt="this is a photo" width="250" style="display: block; margin: 0 auto;"/>
 <br><br>
 
 ## Table of Contents
