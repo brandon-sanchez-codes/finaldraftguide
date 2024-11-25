@@ -49,14 +49,14 @@ I think this is basically everything:
 
 [Click here](https://www.finaldraft.com/trial/#trial-form) to go to Final Draft's free trial request form. 
 
-<img src="/img/download_final_draft.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/download_final_draft.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 Use your Central email address in order to get a Student Trial that will last for the full length of the course.
 
 Once you submit the form, you should receive an email (to your Central address) that looks like this:
 
-<img src="/img/final_draft_email.png" alt="this is a photo" width="500" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/final_draft_email.png" alt="this is a photo" width="500" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 Follow the download link in the email and use your email/password when requested. The setup instructions are straightforward; no need to repeat them here.
@@ -70,19 +70,19 @@ Because you'll be using this application a _lot_ over the duration of this Maste
 
 Move your cursor to the very bottom of your screen, or press the **Windows** button on your keyboard to view the Windows taskbar.
 
-<img src="/img/windows_taskbar.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/windows_taskbar.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 To access Final Draft, type "Final Draft" into your search bar. Then **right-click** on the app.
 
 Select "**Pin to taskbar**".
 
-<img src="/img/pin_to_taskbar.png" alt="this is a photo" width="400" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/pin_to_taskbar.png" alt="this is a photo" width="400" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 Final Draft will be added to the end of your taskbar, and screenwriting can always be just a click away.
 
-<img src="/img/windows_taskbar_2.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/windows_taskbar_2.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 Now you're ready to write! 
@@ -97,7 +97,7 @@ Having opened the app, you're now looking at Final Draft's Graphical User Interf
 
 Above: the menus. Below: the blank page. Endless possibilities.
 
-<img src="/img/blank_fd.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/blank_fd.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 That blinking vertical line near the top left of the page indicates where the words will appear once you start typing. 
@@ -155,7 +155,7 @@ The most useful aspect of Final Draft - and the reason why specialty screenwriti
 
 This short scene shows what the formatting of a Final Draft script looks like:
 
-<img src="/img/script_formatting_clean.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/script_formatting_clean.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 Any scene can be properly formatted without your ever having to think about horizontal indentation, vertical spacing, or caps lock. The formatting is intuitive if you just remember the six types of lines you might need in a script: Scene Headings, Action Lines, Character Names, Parentheticals, Dialogue, and Transitions.
@@ -163,16 +163,16 @@ Any scene can be properly formatted without your ever having to think about hori
 
 | Formatting Type    | Color Below | Description |
 | -------- | ------- | ------- |
-| Scene Heading | <img src="/img/red.png" alt="this is a photo" style="display: block; margin: 0 auto;"/>   | The all-caps line that describes when/where the scene takes place. |
-| Action Line | <img src="/img/orange.png" alt="this is a photo" style="display: block; margin: 0 auto;"/>    | A description of the visuals within a scene. |
-| Character Name  | <img src="/img/yellow.png" alt="this is a photo" style="display: block; margin: 0 auto;"/>   | The all-caps character name that always precedes a line of dialogue. |
-| Parenthetical | <img src="/img/green.png" alt="this is a photo" style="display: block; margin: 0 auto;"/> | A short line that adds context/color to a line of dialogue. |
-| Dialogue | <img src="/img/blue.png" alt="this is a photo" style="display: block; margin: 0 auto;"/> | What a character says. |
-| Transition | <img src="/img/purple.png" alt="this is a photo" style="display: block; margin: 0 auto;"/> | A short, all-caps line that describes how the next scene is reached. |
+| Scene Heading | <img src="img/red.png" alt="this is a photo" style="display: block; margin: 0 auto;"/>   | The all-caps line that describes when/where the scene takes place. |
+| Action Line | <img src="img/orange.png" alt="this is a photo" style="display: block; margin: 0 auto;"/>    | A description of the visuals within a scene. |
+| Character Name  | <img src="img/yellow.png" alt="this is a photo" style="display: block; margin: 0 auto;"/>   | The all-caps character name that always precedes a line of dialogue. |
+| Parenthetical | <img src="img/green.png" alt="this is a photo" style="display: block; margin: 0 auto;"/> | A short line that adds context/color to a line of dialogue. |
+| Dialogue | <img src="img/blue.png" alt="this is a photo" style="display: block; margin: 0 auto;"/> | What a character says. |
+| Transition | <img src="img/purple.png" alt="this is a photo" style="display: block; margin: 0 auto;"/> | A short, all-caps line that describes how the next scene is reached. |
 
 Below, the same scene is highlighted to show those six different types of formatting:
 
-<img src="/img/scene_formatting.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/scene_formatting.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 
@@ -249,19 +249,19 @@ On normal word processors, this information is displayed at the bottom of the sc
 
 Reports can be found in the **Tools** ribbon, under **Reports**. Word count can be found in a "**Statistics Report**".
 
-<img src="/img/report_select.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/report_select.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 In the Statistics Report configuration menu, simply leave the default options selected and press "**OK**" to run a Statistics Report.
 
-<img src="/img/state_report_select.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/state_report_select.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 Final Draft may take several seconds to run this report, depending on how long your script is. 
 
 Finally, you'll get a multi-page document that looks something like this:
 
-<img src="/img/stats_report.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/stats_report.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 Note the "**Number of words**," highlighted in red. This is the word count of the full script, including dialogue, action lines, character names, scene headers, parentheticals... _everything_.
@@ -274,12 +274,12 @@ Getting back to your script is not intuitive. You're now viewing the Statistics 
 
 To get back to your script, go to the top right corner of your screen and click the _small_ **X**. This is the X for the current document, as opposed to the bigger X above, which is for the whole Final Draft application.
 
-<img src="/img/stat_report_exit.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/stat_report_exit.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 You will be asked if you want to save the Statistics Report. Unless for some reason you _do_ (which is rare), click "**No**."
 
-<img src="/img/stat_report_exit_no.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/stat_report_exit_no.png" alt="this is a photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 
 Now you're back to your script.
 <br><br>
@@ -294,17 +294,17 @@ Fortunately, Final Draft has an **Auto-Save** feature, which will ensure that yo
 
 The Auto-Save setting can be found in the **Tools** ribbon, under **Options**.
 
-<img src="/img/options_select.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/options_select.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 This will show you the main settings for Final Draft. In the **General** tab, notice the **Auto-Save** feature.
 
-<img src="/img/option_modal.png" alt="this is a photo" width="500" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/option_modal.png" alt="this is a photo" width="500" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 The most frequent option that Final Draft allows is 3 minutes. Choose "**3**" from the dropdown options.
 
-<img src="/img/option_modal_select.png" alt="this is another photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/option_modal_select.png" alt="this is another photo" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 More frequent saves means less frequent heartbreak. 
@@ -322,12 +322,12 @@ When submitting assignments online, this difference is irrelevant, and you shoul
 
 To change the script's page dimensions, go to the **Document** ribbon, and press **Page Layout**.
 
-<img src="/img/page_layout_find.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/page_layout_find.png" alt="this is a photo" width="700" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 This will show you the **Page Layout** options. The **Paper Type** setting defaults to "US Letter" but should be switched to A4 for printing on school computers.
 
-<img src="/img/page_layout_change.png" alt="this is a photo" width="500" style="display: block; margin: 0 auto; border: 4px solid #555"/>
+<img src="img/page_layout_change.png" alt="this is a photo" width="500" style="display: block; margin: 0 auto; border: 4px solid #555"/>
 <br>
 
 
