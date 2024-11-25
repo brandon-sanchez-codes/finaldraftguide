@@ -91,7 +91,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  beautiful-jekyll-theme
+  beautiful-jekyll-theme (= 6.0.1)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.4)
   jekyll-feed (~> 0.12)
