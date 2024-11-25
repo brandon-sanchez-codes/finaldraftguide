@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: A Simple Guide to Final Draft
-#permalink: "/finaldraftguide"
+permalink: "/finaldraftguide"
 ---
 <h2 style="text-align: center;">(for Windows)</h2>
 
